@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
 int board[3][3]={2,2,2,2,2,2,2,2,2};
 int turn,win,check;
 void display();
